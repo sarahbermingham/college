@@ -1,5 +1,5 @@
 # OOP VS Imperative
-Goal: Make a phonebook BST in python and C that stores name, phone number and address \n
+Goal: Make a phonebook BST in python and C that stores name, phone number and address
 Req: insert, delete, search, traverse
 
 ## Python
